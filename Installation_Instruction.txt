@@ -1,3 +1,2 @@
 It is a standalone desktop app without remote server involved.
 To compile, add Jars in lib folder to the project
-main function is in the Main class.
